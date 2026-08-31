@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://switch-it-leather.com/sitemap.xml
